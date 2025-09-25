@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Region,Country,Channel,Product_ID,Product_Name,Category,Quantity,Unit_Price,Cost_Price,Discount,Revenue,Profit,Profit_Margin
+O1119,2024-01-01,2024-01-05,C045,Warjas Srinivas,West,India,Retail,P505,Washing Machine E,Home Appliances,9,35000,27000,0,315000,72000,0.229
+O1015,2024-01-01,2024-01-06,C032,Yahvi Solanki,North,India,Online,P101,Smartphone A,Electronics,3,25000,18000,1500,73500,19500,0.265
+O1025,2024-01-02,2024-01-03,C038,Ekaja Randhawa,South,India,Distributor,P101,Smartphone A,Electronics,2,25000,18000,0,50000,14000,0.28
+O1087,2024-01-02,2024-01-04,C007,Rushil Brahmbhatt,East,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,0,350000,80000,0.229
+O1004,2024-01-03,2024-01-07,C022,Harini Dutta,East,India,Online,P202,Laptop B,Electronics,2,60000,45000,0,120000,30000,0.25
+O1059,2024-01-04,2024-01-09,C035,Unni Gara,South,India,Retail,P303,Shoes C,Apparel,6,3000,1800,500,17500,6700,0.383
+O1130,2024-01-07,2024-01-12,C025,Pranav Mitter,West,India,Retail,P404,Headphones D,Electronics,4,2000,1200,500,7500,2700,0.36
+O1048,2024-01-08,2024-01-13,C046,Baghyawati Sharaf,West,India,Distributor,P101,Smartphone A,Electronics,2,25000,18000,500,49500,13500,0.273
+O1117,2024-01-08,2024-01-12,C018,Luke Jain,South,India,Distributor,P303,Shoes C,Apparel,2,3000,1800,300,5700,2100,0.368
+O1099,2024-01-10,2024-01-11,C048,Naveen Puri,South,India,Online,P404,Headphones D,Electronics,8,2000,1200,200,15800,6200,0.392
+O1078,2024-01-10,2024-01-13,C028,Anita Choudhury,West,India,Online,P303,Shoes C,Apparel,7,3000,1800,100,20900,8300,0.397
+O1017,2024-01-10,2024-01-15,C001,Qabil Ravi,North,India,Distributor,P505,Washing Machine E,Home Appliances,6,35000,27000,0,210000,48000,0.229
+O1147,2024-01-12,2024-01-15,C044,Chameli Kothari,South,India,Distributor,P404,Headphones D,Electronics,1,2000,1200,200,1800,600,0.333
+O1061,2024-01-13,2024-01-17,C045,Harish Doctor,East,India,Distributor,P101,Smartphone A,Electronics,7,25000,18000,1500,173500,47500,0.274
+O1192,2024-01-15,2024-01-19,C005,Kevin Choudhry,East,India,Distributor,P303,Shoes C,Apparel,7,3000,1800,200,20800,8200,0.394
+O1041,2024-01-16,2024-01-17,C001,Lipika Sathe,West,India,Distributor,P505,Washing Machine E,Home Appliances,2,35000,27000,2000,68000,14000,0.206
+O1060,2024-01-18,2024-01-21,C043,Anvi Dyal,North,India,Distributor,P303,Shoes C,Apparel,7,3000,1800,200,20800,8200,0.394
+O1043,2024-01-19,2024-01-22,C011,Lavanya Bansal,West,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,2000,348000,78000,0.224
+O1165,2024-01-22,2024-01-25,C002,Ekalinga Hari,South,India,Retail,P101,Smartphone A,Electronics,7,25000,18000,2000,173000,47000,0.272
+O1127,2024-01-22,2024-01-27,C010,Aarnav Mane,West,India,Online,P505,Washing Machine E,Home Appliances,2,35000,27000,1000,69000,15000,0.217
+O1009,2024-01-24,2024-01-27,C014,Arjun Narula,East,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,500,349500,79500,0.227
+O1185,2024-01-24,2024-01-26,C049,Madhav Comar,North,India,Distributor,P202,Laptop B,Electronics,8,60000,45000,1500,478500,118500,0.248
+O1044,2024-01-24,2024-01-25,C043,Indrajit Gill,East,India,Distributor,P101,Smartphone A,Electronics,5,25000,18000,0,125000,35000,0.28
+O1103,2024-01-24,2024-01-25,C037,Zayyan Ganesan,East,India,Retail,P303,Shoes C,Apparel,6,3000,1800,100,17900,7100,0.397
+O1193,2024-01-24,2024-01-25,C026,Idika Vala,North,India,Retail,P404,Headphones D,Electronics,8,2000,1200,200,15800,6200,0.392
+O1176,2024-01-25,2024-01-26,C038,Ijaya Saha,East,India,Distributor,P202,Laptop B,Electronics,6,60000,45000,1500,358500,88500,0.247
+O1132,2024-01-25,2024-01-27,C032,Kevin Chatterjee,North,India,Online,P505,Washing Machine E,Home Appliances,2,35000,27000,1500,68500,14500,0.212
+O1005,2024-01-26,2024-01-30,C007,Harish Toor,East,India,Retail,P505,Washing Machine E,Home Appliances,1,35000,27000,1500,33500,6500,0.194
+O1081,2024-01-26,2024-01-30,C021,Nachiket Dani,East,India,Retail,P303,Shoes C,Apparel,5,3000,1800,0,15000,6000,0.4
+O1076,2024-01-27,2024-02-01,C045,Gayathri Dewan,North,India,Distributor,P303,Shoes C,Apparel,1,3000,1800,200,2800,1000,0.357
+O1112,2024-01-28,2024-02-02,C015,Tarak Deo,South,India,Retail,P101,Smartphone A,Electronics,1,25000,18000,500,24500,6500,0.265
+O1148,2024-01-28,2024-02-01,C003,Urmi Palla,East,India,Distributor,P101,Smartphone A,Electronics,5,25000,18000,1000,124000,34000,0.274
+O1187,2024-01-29,2024-02-01,C028,Bhanumati Johal,North,India,Retail,P505,Washing Machine E,Home Appliances,9,35000,27000,1000,314000,71000,0.226
+O1191,2024-01-31,2024-02-05,C036,Aarav Shankar,East,India,Online,P303,Shoes C,Apparel,7,3000,1800,0,21000,8400,0.4
+O1120,2024-02-01,2024-02-05,C006,Ekantika Pillai,East,India,Retail,P303,Shoes C,Apparel,7,3000,1800,500,20500,7900,0.385
+O1124,2024-02-01,2024-02-06,C016,Frederick Sawhney,South,India,Retail,P505,Washing Machine E,Home Appliances,9,35000,27000,1500,313500,70500,0.225
+O1016,2024-02-03,2024-02-08,C005,Falak Sem,West,India,Retail,P505,Washing Machine E,Home Appliances,9,35000,27000,1000,314000,71000,0.226
+O1034,2024-02-04,2024-02-07,C030,Libni Tailor,East,India,Retail,P505,Washing Machine E,Home Appliances,3,35000,27000,500,104500,23500,0.225
+O1131,2024-02-05,2024-02-09,C015,Edhitha Shukla,West,India,Online,P303,Shoes C,Apparel,7,3000,1800,300,20700,8100,0.391
+O1026,2024-02-08,2024-02-10,C005,Ekanta Bose,North,India,Retail,P404,Headphones D,Electronics,4,2000,1200,200,7800,3000,0.385
+O1167,2024-02-10,2024-02-11,C029,Zilmil Modi,South,India,Distributor,P404,Headphones D,Electronics,9,2000,1200,200,17800,7000,0.393
+O1067,2024-02-10,2024-02-15,C013,Yauvani Kamdar,West,India,Retail,P303,Shoes C,Apparel,3,3000,1800,0,9000,3600,0.4
+O1084,2024-02-10,2024-02-14,C043,Jack Bail,North,India,Distributor,P202,Laptop B,Electronics,5,60000,45000,1000,299000,74000,0.247
+O1019,2024-02-11,2024-02-13,C033,Orinder Gaba,North,India,Distributor,P303,Shoes C,Apparel,3,3000,1800,200,8800,3400,0.386
+O1143,2024-02-11,2024-02-15,C045,Jagdish Buch,East,India,Retail,P303,Shoes C,Apparel,7,3000,1800,300,20700,8100,0.391
+O1054,2024-02-12,2024-02-16,C023,William Magar,East,India,Online,P101,Smartphone A,Electronics,4,25000,18000,1500,98500,26500,0.269
+O1111,2024-02-13,2024-02-17,C005,Ekbal Sen,South,India,Retail,P505,Washing Machine E,Home Appliances,7,35000,27000,0,245000,56000,0.229
+O1101,2024-02-14,2024-02-16,C020,Varenya Setty,North,India,Distributor,P505,Washing Machine E,Home Appliances,5,35000,27000,0,175000,40000,0.229
+O1088,2024-02-14,2024-02-17,C035,Kamala Ganguly,West,India,Distributor,P303,Shoes C,Apparel,9,3000,1800,200,26800,10600,0.396
+O1150,2024-02-17,2024-02-20,C011,Nimrat Virk,East,India,Retail,P303,Shoes C,Apparel,2,3000,1800,300,5700,2100,0.368
+O1173,2024-02-18,2024-02-22,C026,Netra Banerjee,West,India,Distributor,P202,Laptop B,Electronics,7,60000,45000,1000,419000,104000,0.248
+O1095,2024-02-19,2024-02-24,C049,Faqid Sawhney,South,India,Distributor,P303,Shoes C,Apparel,8,3000,1800,0,24000,9600,0.4
+O1166,2024-02-19,2024-02-20,C048,Aadi Nagarajan,North,India,Retail,P303,Shoes C,Apparel,9,3000,1800,500,26500,10300,0.389
+O1032,2024-02-21,2024-02-22,C004,Brijesh Choudhury,North,India,Online,P101,Smartphone A,Electronics,7,25000,18000,1500,173500,47500,0.274
+O1177,2024-02-22,2024-02-23,C019,Kevin Thakur,East,India,Retail,P404,Headphones D,Electronics,9,2000,1200,100,17900,7100,0.397
+O1091,2024-02-23,2024-02-28,C018,Ansh Badal,East,India,Online,P202,Laptop B,Electronics,8,60000,45000,500,479500,119500,0.249
+O1086,2024-02-23,2024-02-26,C037,Eshana Bhardwaj,West,India,Retail,P505,Washing Machine E,Home Appliances,2,35000,27000,2000,68000,14000,0.206
+O1110,2024-02-23,2024-02-27,C045,Barkha Bhakta,West,India,Retail,P101,Smartphone A,Electronics,5,25000,18000,1000,124000,34000,0.274
+O1050,2024-02-23,2024-02-24,C020,Lohit Saran,East,India,Online,P303,Shoes C,Apparel,4,3000,1800,0,12000,4800,0.4
+O1055,2024-02-23,2024-02-26,C018,Omisha Kapadia,North,India,Retail,P303,Shoes C,Apparel,9,3000,1800,200,26800,10600,0.396
+O1008,2024-02-23,2024-02-25,C007,Balendra Ramanathan,West,India,Retail,P303,Shoes C,Apparel,3,3000,1800,200,8800,3400,0.386
+O1135,2024-02-24,2024-02-29,C025,Vanya Chahal,East,India,Distributor,P505,Washing Machine E,Home Appliances,9,35000,27000,0,315000,72000,0.229
+O1045,2024-02-24,2024-02-25,C048,Faris Chanda,South,India,Retail,P303,Shoes C,Apparel,6,3000,1800,100,17900,7100,0.397
+O1052,2024-02-26,2024-02-28,C027,Adweta Pathak,North,India,Online,P505,Washing Machine E,Home Appliances,7,35000,27000,500,244500,55500,0.227
+O1146,2024-02-27,2024-03-01,C050,Gaurika Bansal,South,India,Distributor,P303,Shoes C,Apparel,4,3000,1800,500,11500,4300,0.374
+O1157,2024-02-28,2024-03-02,C043,Viraj Iyengar,West,India,Distributor,P505,Washing Machine E,Home Appliances,7,35000,27000,0,245000,56000,0.229
+O1163,2024-02-28,2024-03-04,C001,Rajeshri Bava,East,India,Online,P404,Headphones D,Electronics,5,2000,1200,100,9900,3900,0.394
+O1125,2024-03-01,2024-03-02,C015,Pahal Rama,North,India,Retail,P404,Headphones D,Electronics,3,2000,1200,300,5700,2100,0.368
+O1056,2024-03-02,2024-03-03,C008,Ekalinga Agate,East,India,Online,P505,Washing Machine E,Home Appliances,1,35000,27000,0,35000,8000,0.229
+O1066,2024-03-03,2024-03-04,C003,Diya Samra,South,India,Retail,P505,Washing Machine E,Home Appliances,8,35000,27000,1500,278500,62500,0.224
+O1077,2024-03-03,2024-03-06,C049,Gautam Nath,West,India,Retail,P505,Washing Machine E,Home Appliances,8,35000,27000,500,279500,63500,0.227
+O1002,2024-03-04,2024-03-05,C002,Neha Sagar,North,India,Online,P404,Headphones D,Electronics,10,2000,1200,0,20000,8000,0.4
+O1027,2024-03-05,2024-03-09,C014,Nakul Patel,South,India,Distributor,P505,Washing Machine E,Home Appliances,4,35000,27000,1500,138500,30500,0.22
+O1012,2024-03-05,2024-03-08,C005,Charles Bhat,South,India,Distributor,P505,Washing Machine E,Home Appliances,4,35000,27000,1500,138500,30500,0.22
+O1179,2024-03-08,2024-03-09,C049,Chanakya Dixit,East,India,Distributor,P202,Laptop B,Electronics,9,60000,45000,2000,538000,133000,0.247
+O1162,2024-03-09,2024-03-11,C005,Jagat Garde,South,India,Distributor,P101,Smartphone A,Electronics,6,25000,18000,500,149500,41500,0.278
+O1023,2024-03-09,2024-03-12,C034,Rajata Chander,West,India,Online,P505,Washing Machine E,Home Appliances,5,35000,27000,1500,173500,38500,0.222
+O1105,2024-03-09,2024-03-14,C041,Pahal Hayer,North,India,Online,P404,Headphones D,Electronics,5,2000,1200,0,10000,4000,0.4
+O1198,2024-03-12,2024-03-16,C030,Ishita Kari,West,India,Distributor,P505,Washing Machine E,Home Appliances,6,35000,27000,500,209500,47500,0.227
+O1063,2024-03-12,2024-03-14,C028,Samuel Balay,East,India,Retail,P303,Shoes C,Apparel,4,3000,1800,500,11500,4300,0.374
+O1068,2024-03-13,2024-03-14,C050,Jagdish Mishra,West,India,Online,P404,Headphones D,Electronics,9,2000,1200,300,17700,6900,0.39
+O1118,2024-03-13,2024-03-16,C027,Avni Srinivasan,East,India,Retail,P505,Washing Machine E,Home Appliances,3,35000,27000,1000,104000,23000,0.221
+O1104,2024-03-14,2024-03-15,C017,Nidhi Iyengar,West,India,Online,P202,Laptop B,Electronics,8,60000,45000,0,480000,120000,0.25
+O1049,2024-03-14,2024-03-19,C003,Saumya Sachar,East,India,Distributor,P505,Washing Machine E,Home Appliances,7,35000,27000,500,244500,55500,0.227
+O1115,2024-03-15,2024-03-18,C039,Balvan Rajagopal,East,India,Online,P101,Smartphone A,Electronics,10,25000,18000,2000,248000,68000,0.274
+O1029,2024-03-16,2024-03-20,C030,Chakradhar Iyengar,North,India,Distributor,P505,Washing Machine E,Home Appliances,1,35000,27000,1500,33500,6500,0.194
+O1038,2024-03-18,2024-03-19,C037,Urvi Murthy,South,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,0,350000,80000,0.229
+O1001,2024-03-19,2024-03-21,C009,Chaman Mishra,North,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,1500,348500,78500,0.225
+O1079,2024-03-19,2024-03-23,C009,Zayan Baral,North,India,Retail,P505,Washing Machine E,Home Appliances,2,35000,27000,1500,68500,14500,0.212
+O1031,2024-03-22,2024-03-26,C012,Omisha Prasad,East,India,Retail,P101,Smartphone A,Electronics,8,25000,18000,2000,198000,54000,0.273
+O1168,2024-03-23,2024-03-27,C042,Darsh Mall,North,India,Online,P303,Shoes C,Apparel,7,3000,1800,0,21000,8400,0.4
+O1011,2024-03-26,2024-03-28,C044,Shaurya Sawhney,East,India,Online,P101,Smartphone A,Electronics,6,25000,18000,1500,148500,40500,0.273
+O1093,2024-03-26,2024-03-30,C014,Hemang Sarkar,East,India,Retail,P303,Shoes C,Apparel,10,3000,1800,200,29800,11800,0.396
+O1042,2024-03-26,2024-03-28,C033,Nitesh Banik,East,India,Online,P303,Shoes C,Apparel,4,3000,1800,200,11800,4600,0.39
+O1037,2024-03-27,2024-03-28,C012,Veer Subramaniam,North,India,Distributor,P404,Headphones D,Electronics,4,2000,1200,300,7700,2900,0.377
+O1003,2024-03-27,2024-04-01,C013,Urmi Shanker,West,India,Online,P303,Shoes C,Apparel,1,3000,1800,100,2900,1100,0.379
+O1137,2024-03-27,2024-03-31,C007,Lucky Karnik,North,India,Retail,P404,Headphones D,Electronics,5,2000,1200,0,10000,4000,0.4
+O1197,2024-03-28,2024-03-30,C017,Waida Deep,South,India,Online,P505,Washing Machine E,Home Appliances,2,35000,27000,500,69500,15500,0.223
+O1158,2024-03-28,2024-04-01,C040,Reva Kar,West,India,Retail,P404,Headphones D,Electronics,6,2000,1200,100,11900,4700,0.395
+O1182,2024-03-28,2024-04-02,C043,Ranbir Setty,West,India,Online,P404,Headphones D,Electronics,1,2000,1200,0,2000,800,0.4
+O1100,2024-03-28,2024-04-02,C049,Yadavi Ram,East,India,Online,P202,Laptop B,Electronics,4,60000,45000,1000,239000,59000,0.247
+O1057,2024-03-28,2024-04-02,C028,Zehaan Narain,East,India,Distributor,P303,Shoes C,Apparel,10,3000,1800,500,29500,11500,0.39
+O1072,2024-03-28,2024-04-01,C041,Eta Srinivasan,South,India,Retail,P303,Shoes C,Apparel,5,3000,1800,100,14900,5900,0.396
+O1109,2024-03-29,2024-03-31,C016,Ayaan Konda,South,India,Distributor,P101,Smartphone A,Electronics,1,25000,18000,1500,23500,5500,0.234
+O1074,2024-03-29,2024-04-02,C045,Riya Mani,South,India,Distributor,P101,Smartphone A,Electronics,7,25000,18000,1500,173500,47500,0.274
+O1096,2024-03-30,2024-03-31,C019,Chatresh Sahni,South,India,Retail,P505,Washing Machine E,Home Appliances,5,35000,27000,2000,173000,38000,0.22
+O1152,2024-04-02,2024-04-03,C026,Tanmayi Sankar,North,India,Retail,P505,Washing Machine E,Home Appliances,8,35000,27000,1000,279000,63000,0.226
+O1106,2024-04-04,2024-04-06,C008,Daniel Dalal,West,India,Distributor,P505,Washing Machine E,Home Appliances,9,35000,27000,1500,313500,70500,0.225
+O1160,2024-04-04,2024-04-07,C004,Ekanta Shroff,West,India,Retail,P101,Smartphone A,Electronics,8,25000,18000,0,200000,56000,0.28
+O1134,2024-04-04,2024-04-05,C031,Timothy Basak,East,India,Retail,P505,Washing Machine E,Home Appliances,2,35000,27000,1000,69000,15000,0.217
+O1169,2024-04-05,2024-04-09,C046,Jagat Bhagat,West,India,Online,P202,Laptop B,Electronics,10,60000,45000,500,599500,149500,0.249
+O1178,2024-04-06,2024-04-08,C043,Chavvi Bahl,West,India,Online,P202,Laptop B,Electronics,9,60000,45000,1000,539000,134000,0.249
+O1161,2024-04-06,2024-04-08,C042,Jatin Chaudhary,North,India,Online,P303,Shoes C,Apparel,3,3000,1800,500,8500,3100,0.365
+O1071,2024-04-07,2024-04-09,C048,Bhavna Dey,West,India,Retail,P303,Shoes C,Apparel,5,3000,1800,500,14500,5500,0.379
+O1047,2024-04-09,2024-04-10,C001,Kai Trivedi,East,India,Online,P505,Washing Machine E,Home Appliances,3,35000,27000,1500,103500,22500,0.217
+O1170,2024-04-11,2024-04-12,C009,Tanish Srivastava,East,India,Distributor,P505,Washing Machine E,Home Appliances,7,35000,27000,2000,243000,54000,0.222
+O1122,2024-04-13,2024-04-18,C049,Om Kanda,West,India,Distributor,P303,Shoes C,Apparel,4,3000,1800,200,11800,4600,0.39
+O1033,2024-04-14,2024-04-18,C014,Meera Vora,West,India,Online,P202,Laptop B,Electronics,1,60000,45000,1500,58500,13500,0.231
+O1171,2024-04-15,2024-04-20,C019,Chandresh Loke,West,India,Distributor,P505,Washing Machine E,Home Appliances,2,35000,27000,0,70000,16000,0.229
+O1065,2024-04-16,2024-04-19,C006,Sara Bawa,South,India,Distributor,P303,Shoes C,Apparel,4,3000,1800,100,11900,4700,0.395
+O1010,2024-04-18,2024-04-23,C047,Balveer Walla,South,India,Online,P303,Shoes C,Apparel,5,3000,1800,500,14500,5500,0.379
+O1089,2024-04-18,2024-04-19,C027,Watika Soni,West,India,Online,P303,Shoes C,Apparel,8,3000,1800,100,23900,9500,0.397
+O1013,2024-04-19,2024-04-23,C042,Qadim Bava,West,India,Online,P303,Shoes C,Apparel,4,3000,1800,500,11500,4300,0.374
+O1164,2024-04-20,2024-04-21,C043,Sara Gola,North,India,Online,P202,Laptop B,Electronics,4,60000,45000,2000,238000,58000,0.244
+O1098,2024-04-20,2024-04-23,C020,Urishilla Buch,East,India,Online,P404,Headphones D,Electronics,4,2000,1200,200,7800,3000,0.385
+O1107,2024-04-21,2024-04-25,C029,Peter Krish,East,India,Distributor,P303,Shoes C,Apparel,10,3000,1800,500,29500,11500,0.39
+O1039,2024-04-22,2024-04-26,C043,Ekantika Agate,East,India,Retail,P404,Headphones D,Electronics,6,2000,1200,100,11900,4700,0.395
+O1140,2024-04-23,2024-04-24,C040,Lakshmi Tailor,West,India,Distributor,P505,Washing Machine E,Home Appliances,8,35000,27000,2000,278000,62000,0.223
+O1058,2024-04-23,2024-04-24,C025,Maanav Goel,South,India,Retail,P404,Headphones D,Electronics,7,2000,1200,0,14000,5600,0.4
+O1073,2024-04-23,2024-04-26,C022,Dalaja Jani,East,India,Distributor,P101,Smartphone A,Electronics,3,25000,18000,500,74500,20500,0.275
+O1070,2024-04-25,2024-04-30,C039,Sai Tata,East,India,Retail,P505,Washing Machine E,Home Appliances,9,35000,27000,1500,313500,70500,0.225
+O1159,2024-04-25,2024-04-29,C029,Yuvraj Pall,South,India,Retail,P404,Headphones D,Electronics,6,2000,1200,500,11500,4300,0.374
+O1142,2024-04-26,2024-04-30,C019,Brinda Patla,South,India,Online,P303,Shoes C,Apparel,10,3000,1800,200,29800,11800,0.396
+O1102,2024-04-26,2024-04-27,C036,Azaan Karpe,East,India,Distributor,P404,Headphones D,Electronics,8,2000,1200,0,16000,6400,0.4
+O1007,2024-04-26,2024-05-01,C013,Reyansh Mandal,North,India,Online,P505,Washing Machine E,Home Appliances,5,35000,27000,0,175000,40000,0.229
+O1075,2024-04-27,2024-04-30,C035,Yagnesh Bera,West,India,Retail,P101,Smartphone A,Electronics,7,25000,18000,1500,173500,47500,0.274
+O1139,2024-04-27,2024-04-29,C034,Ekapad Ganesh,West,India,Distributor,P505,Washing Machine E,Home Appliances,3,35000,27000,500,104500,23500,0.225
+O1128,2024-04-28,2024-05-02,C022,Chavvi Wali,East,India,Online,P303,Shoes C,Apparel,10,3000,1800,500,29500,11500,0.39
+O1199,2024-04-30,2024-05-04,C005,Tanveer Gala,West,India,Retail,P505,Washing Machine E,Home Appliances,5,35000,27000,2000,173000,38000,0.22
+O1085,2024-04-30,2024-05-02,C039,Omaja Mitra,North,India,Online,P303,Shoes C,Apparel,10,3000,1800,0,30000,12000,0.4
+O1121,2024-05-02,2024-05-03,C043,Nitara Sethi,West,India,Retail,P101,Smartphone A,Electronics,9,25000,18000,1000,224000,62000,0.277
+O1062,2024-05-02,2024-05-04,C040,Andrew Sundaram,East,India,Retail,P505,Washing Machine E,Home Appliances,5,35000,27000,1000,174000,39000,0.224
+O1053,2024-05-02,2024-05-05,C011,Diya Suri,North,India,Retail,P202,Laptop B,Electronics,4,60000,45000,500,239500,59500,0.248
+O1090,2024-05-03,2024-05-07,C012,Vanya Kala,East,India,Distributor,P505,Washing Machine E,Home Appliances,8,35000,27000,1500,278500,62500,0.224
+O1175,2024-05-05,2024-05-06,C028,Gagan Krishnan,North,India,Distributor,P505,Washing Machine E,Home Appliances,3,35000,27000,2000,103000,22000,0.214
+O1028,2024-05-05,2024-05-09,C013,Amol Bhandari,North,India,Online,P505,Washing Machine E,Home Appliances,6,35000,27000,1500,208500,46500,0.223
+O1040,2024-05-07,2024-05-10,C026,Logan Om,South,India,Distributor,P505,Washing Machine E,Home Appliances,8,35000,27000,1000,279000,63000,0.226
+O1006,2024-05-07,2024-05-12,C008,Nimrat Bal,West,India,Online,P505,Washing Machine E,Home Appliances,10,35000,27000,1000,349000,79000,0.226
+O1181,2024-05-08,2024-05-11,C045,Dev Anand,East,India,Retail,P303,Shoes C,Apparel,3,3000,1800,100,8900,3500,0.393
+O1036,2024-05-08,2024-05-09,C038,Harsh Sharaf,West,India,Distributor,P505,Washing Machine E,Home Appliances,1,35000,27000,2000,33000,6000,0.182
+O1151,2024-05-09,2024-05-10,C010,Yachana Anand,South,India,Distributor,P505,Washing Machine E,Home Appliances,9,35000,27000,1000,314000,71000,0.226
+O1092,2024-05-09,2024-05-13,C037,Reva Bansal,West,India,Retail,P202,Laptop B,Electronics,6,60000,45000,500,359500,89500,0.249
+O1082,2024-05-09,2024-05-13,C002,Ridhi Pathak,North,India,Retail,P404,Headphones D,Electronics,2,2000,1200,0,4000,1600,0.4
+O1108,2024-05-13,2024-05-14,C040,Sanya Mandal,North,India,Online,P505,Washing Machine E,Home Appliances,5,35000,27000,0,175000,40000,0.229
+O1189,2024-05-14,2024-05-16,C050,Siya Divan,South,India,Retail,P303,Shoes C,Apparel,2,3000,1800,0,6000,2400,0.4
+O1094,2024-05-15,2024-05-20,C001,Raagini Srinivas,South,India,Online,P404,Headphones D,Electronics,7,2000,1200,300,13700,5300,0.387
+O1195,2024-05-16,2024-05-20,C020,Anika Arora,East,India,Online,P303,Shoes C,Apparel,2,3000,1800,500,5500,1900,0.345
+O1180,2024-05-17,2024-05-22,C044,Libni Sandhu,North,India,Distributor,P505,Washing Machine E,Home Appliances,1,35000,27000,500,34500,7500,0.217
+O1114,2024-05-18,2024-05-21,C033,Alka Guha,West,India,Retail,P404,Headphones D,Electronics,1,2000,1200,300,1700,500,0.294
+O1153,2024-05-18,2024-05-21,C038,Yashoda Seshadri,West,India,Distributor,P303,Shoes C,Apparel,4,3000,1800,300,11700,4500,0.385
+O1051,2024-05-18,2024-05-21,C050,Jacob Chahal,West,India,Distributor,P505,Washing Machine E,Home Appliances,4,35000,27000,500,139500,31500,0.226
+O1136,2024-05-18,2024-05-23,C005,Darsh Pillai,South,India,Distributor,P505,Washing Machine E,Home Appliances,4,35000,27000,0,140000,32000,0.229
+O1144,2024-05-21,2024-05-22,C016,Vritti Tailor,West,India,Distributor,P303,Shoes C,Apparel,5,3000,1800,0,15000,6000,0.4
+O1141,2024-05-22,2024-05-24,C015,Shravya Lad,West,India,Distributor,P303,Shoes C,Apparel,5,3000,1800,0,15000,6000,0.4
+O1046,2024-05-23,2024-05-26,C033,Aahana Viswanathan,West,India,Retail,P101,Smartphone A,Electronics,7,25000,18000,1000,174000,48000,0.276
+O1133,2024-05-25,2024-05-26,C034,Vyanjana Agate,West,India,Online,P505,Washing Machine E,Home Appliances,7,35000,27000,500,244500,55500,0.227
+O1123,2024-05-25,2024-05-30,C009,Andrew Devi,East,India,Retail,P505,Washing Machine E,Home Appliances,2,35000,27000,0,70000,16000,0.229
+O1188,2024-05-27,2024-05-28,C015,Jagrati Bandi,West,India,Distributor,P101,Smartphone A,Electronics,4,25000,18000,1000,99000,27000,0.273
+O1035,2024-05-27,2024-05-30,C014,Theodore Pandit,North,India,Distributor,P505,Washing Machine E,Home Appliances,6,35000,27000,0,210000,48000,0.229
+O1069,2024-05-28,2024-05-29,C036,Aishani Nath,South,India,Online,P303,Shoes C,Apparel,8,3000,1800,500,23500,9100,0.387
+O1014,2024-05-30,2024-06-04,C017,Ekansh Sandal,West,India,Distributor,P303,Shoes C,Apparel,4,3000,1800,100,11900,4700,0.395
+O1174,2024-05-30,2024-06-02,C024,Vinaya Srinivas,South,India,Distributor,P303,Shoes C,Apparel,2,3000,1800,0,6000,2400,0.4
+O1145,2024-05-30,2024-06-03,C018,Nilima Rajagopal,North,India,Distributor,P505,Washing Machine E,Home Appliances,10,35000,27000,1500,348500,78500,0.225
+O1138,2024-05-31,2024-06-01,C021,Shravya Bumb,North,India,Retail,P303,Shoes C,Apparel,7,3000,1800,100,20900,8300,0.397
+O1018,2024-05-31,2024-06-03,C028,Ekavir Varty,South,India,Retail,P404,Headphones D,Electronics,5,2000,1200,500,9500,3500,0.368
+O1022,2024-05-31,2024-06-04,C005,Bishakha Om,South,India,Online,P505,Washing Machine E,Home Appliances,9,35000,27000,500,314500,71500,0.227
+O1186,2024-06-03,2024-06-07,C039,Yutika Shere,West,India,Retail,P303,Shoes C,Apparel,9,3000,1800,0,27000,10800,0.4
+O1149,2024-06-04,2024-06-08,C012,Bakhshi Bhakta,South,India,Online,P505,Washing Machine E,Home Appliances,9,35000,27000,2000,313000,70000,0.224
+O1183,2024-06-08,2024-06-13,C014,Ubika Setty,West,India,Retail,P303,Shoes C,Apparel,3,3000,1800,200,8800,3400,0.386
+O1184,2024-06-09,2024-06-12,C047,Ronith Lad,East,India,Distributor,P505,Washing Machine E,Home Appliances,1,35000,27000,500,34500,7500,0.217
+O1196,2024-06-10,2024-06-11,C034,Bakhshi Kothari,South,India,Retail,P303,Shoes C,Apparel,4,3000,1800,0,12000,4800,0.4
+O1154,2024-06-10,2024-06-11,C040,Amrita Mand,East,India,Distributor,P404,Headphones D,Electronics,2,2000,1200,300,3700,1300,0.351
+O1126,2024-06-10,2024-06-13,C033,Chaman Atwal,East,India,Retail,P303,Shoes C,Apparel,4,3000,1800,300,11700,4500,0.385
+O1064,2024-06-12,2024-06-16,C048,Ucchal Patil,South,India,Distributor,P202,Laptop B,Electronics,9,60000,45000,2000,538000,133000,0.247
+O1024,2024-06-13,2024-06-16,C029,Meghana Gandhi,West,India,Online,P101,Smartphone A,Electronics,2,25000,18000,1000,49000,13000,0.265
+O1116,2024-06-15,2024-06-16,C049,Faras Kata,East,India,Distributor,P101,Smartphone A,Electronics,8,25000,18000,2000,198000,54000,0.273
+O1020,2024-06-15,2024-06-17,C035,Kiaan Dixit,North,India,Distributor,P303,Shoes C,Apparel,1,3000,1800,0,3000,1200,0.4
+O1080,2024-06-18,2024-06-20,C030,Guneet Manne,South,India,Online,P303,Shoes C,Apparel,6,3000,1800,100,17900,7100,0.397
+O1190,2024-06-19,2024-06-23,C048,Ekanta Chokshi,West,India,Online,P202,Laptop B,Electronics,9,60000,45000,500,539500,134500,0.249
+O1155,2024-06-19,2024-06-22,C042,Avni Das,West,India,Online,P101,Smartphone A,Electronics,1,25000,18000,1000,24000,6000,0.25
+O1083,2024-06-20,2024-06-21,C016,Chaaya Pathak,South,India,Online,P505,Washing Machine E,Home Appliances,4,35000,27000,500,139500,31500,0.226
+O1097,2024-06-20,2024-06-23,C031,Nidra Patel,East,India,Retail,P505,Washing Machine E,Home Appliances,6,35000,27000,1500,208500,46500,0.223
+O1156,2024-06-21,2024-06-25,C008,Mohammed Narang,North,India,Online,P505,Washing Machine E,Home Appliances,7,35000,27000,1500,243500,54500,0.224
+O1129,2024-06-22,2024-06-26,C010,Manya Radhakrishnan,West,India,Distributor,P303,Shoes C,Apparel,6,3000,1800,500,17500,6700,0.383
+O1113,2024-06-23,2024-06-26,C039,Gautam Iyengar,East,India,Retail,P202,Laptop B,Electronics,5,60000,45000,1500,298500,73500,0.246
+O1021,2024-06-25,2024-06-28,C020,Liam Nazareth,South,India,Online,P404,Headphones D,Electronics,2,2000,1200,0,4000,1600,0.4
+O1030,2024-06-26,2024-06-29,C007,Alka Padmanabhan,South,India,Online,P404,Headphones D,Electronics,8,2000,1200,100,15900,6300,0.396
+O1172,2024-06-26,2024-07-01,C047,Yamini Srinivasan,South,India,Retail,P303,Shoes C,Apparel,7,3000,1800,200,20800,8200,0.394
+O1200,2024-06-26,2024-06-27,C023,Ayaan Bhattacharyya,North,India,Retail,P303,Shoes C,Apparel,1,3000,1800,0,3000,1200,0.4
+O1194,2024-06-29,2024-06-30,C028,Abhiram Setty,North,India,Online,P303,Shoes C,Apparel,9,3000,1800,0,27000,10800,0.4

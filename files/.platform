@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "SALES & FORCASTING DASHBOARD"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f69ecbec-b9e9-4f94-bd77-483bf6fe3984"
+  }
+}
